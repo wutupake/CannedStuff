@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'NexaBold';
+    src: url('NexaBold.eot?#iefix') format('embedded-opentype'),
+         url('NexaBold.otf')  format('opentype'),
+         url('NexaBold.woff') format('woff'),
+         url('NexaBold.ttf')  format('truetype'),
+         url('NexaBold.svg#NexaBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NexaLight';
+    src: url('NexaLight.eot?#iefix') format('embedded-opentype'),
+         url('NexaLight.otf')  format('opentype'),
+         url('NexaLight.woff') format('woff'),
+         url('NexaLight.ttf')  format('truetype'),
+         url('NexaLight.svg#NexaLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NexaSlabHeavyOblique';
+    src: url('../fonts/nexaslabheavyoblique.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nexaslabheavyoblique.woff') format('woff'),
+         url('../fonts/nexaslabheavyoblique.ttf')  format('truetype'),
+         url('../fonts/nexaslabheavyoblique.svg#nexaslabheavyoblique') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NexaSlabHeavyItalic';
+    src: url('../fonts/nexaslabheavyitalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nexaslabheavyitalic.woff') format('woff'),
+         url('../fonts/nexaslabheavyitalic.ttf')  format('truetype'),
+         url('../fonts/nexaslabheavyitalic.svg#nexaslabheavyitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NexaSlabRegularOblique';
+    src: url('../fonts/nexaslabregularoblique.eot');
+    src: url('../fonts/nexaslabregularoblique.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nexaslabregularoblique.woff') format('woff'),
+         url('../fonts/nexaslabregularoblique.ttf') format('truetype'),
+         url('../fonts/nexaslabregularoblique.svg#nexa_slab_regular_obliqueRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'NexaSlabRegularItalic';
+    src: url('../fonts/nexaslabregularitalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/nexaslabregularitalic.otf')  format('opentype'),
+         url('../fonts/nexaslabregularitalic.woff') format('woff'),
+         url('../fonts/nexaslabregularitalic.ttf')  format('truetype'),
+         url('../fonts/nexaslabregularitalic.svg#nexaslabregularitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

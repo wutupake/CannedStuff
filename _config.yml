@@ -1,0 +1,11 @@
+# Site settings
+title: CannedStuff
+email: your-email@domain.com
+description: "CannedsStuff: Maurizio Fiaschini websites"
+baseurl: "/cannedstuff" # the subpath of your site, e.g. /blog/
+url: "http://cannedstuff.net" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown

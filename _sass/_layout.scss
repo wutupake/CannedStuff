@@ -1,0 +1,41 @@
+/* ---------- http://www.paulirish.com/2012/box-sizing-border-box-ftw/ --------------- */
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+// LAYOUT
+html,
+body,
+.page-content {
+    height: 100%;
+    width: 100%;
+}
+.page-content {
+    display: table;
+    background-color: $background-color;
+    color: $text-color;
+    .wrapper {
+        display: table-cell;
+        vertical-align: middle;
+        padding: 0 10%;
+    }
+}
+
+// FONTS
+h1 {
+  font-size: 9vw;
+  font-family: "NexaBold";
+  text-transform: uppercase;
+}
+p {
+  font-size: 3vw;
+  font-family: "NexaSlabRegularItalic";
+}
+a {
+    color: $brand-color;
+    font-family: "NexaSlabRegularOblique";
+}
