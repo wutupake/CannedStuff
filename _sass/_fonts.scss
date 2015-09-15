@@ -21,40 +21,42 @@
 
 @font-face {
     font-family: 'NexaSlabHeavyOblique';
-    src: url('../fonts/nexaslabheavyoblique.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/nexaslabheavyoblique.woff') format('woff'),
-         url('../fonts/nexaslabheavyoblique.ttf')  format('truetype'),
-         url('../fonts/nexaslabheavyoblique.svg#nexaslabheavyoblique') format('svg');
+    src: url('NexaSlabHeavyOblique.eot?#iefix') format('embedded-opentype'),
+         url('NexaSlabHeavyOblique.otf')  format('opentype'),
+         url('NexaSlabHeavyOblique.woff') format('woff'),
+         url('NexaSlabHeavyOblique.ttf')  format('truetype'),
+         url('NexaSlabHeavyOblique.svg#NexaSlabHeavyOblique') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'NexaSlabHeavyItalic';
-    src: url('../fonts/nexaslabheavyitalic.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/nexaslabheavyitalic.woff') format('woff'),
-         url('../fonts/nexaslabheavyitalic.ttf')  format('truetype'),
-         url('../fonts/nexaslabheavyitalic.svg#nexaslabheavyitalic') format('svg');
+    src: url('NexaSlabHeavyItalic.eot?#iefix') format('embedded-opentype'),
+         url('NexaSlabHeavyItalic.otf')  format('opentype'),
+         url('NexaSlabHeavyItalic.woff') format('woff'),
+         url('NexaSlabHeavyItalic.ttf')  format('truetype'),
+         url('NexaSlabHeavyItalic.svg#NexaSlabHeavyItalic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'NexaSlabRegularOblique';
-    src: url('../fonts/nexaslabregularoblique.eot');
-    src: url('../fonts/nexaslabregularoblique.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/nexaslabregularoblique.woff') format('woff'),
-         url('../fonts/nexaslabregularoblique.ttf') format('truetype'),
-         url('../fonts/nexaslabregularoblique.svg#nexa_slab_regular_obliqueRg') format('svg');
+    src: url('NexaSlabRegularOblique.eot?#iefix') format('embedded-opentype'),
+         url('NexaSlabRegularOblique.otf')  format('opentype'),
+         url('NexaSlabRegularOblique.woff') format('woff'),
+         url('NexaSlabRegularOblique.ttf')  format('truetype'),
+         url('NexaSlabRegularOblique.svg#NexaSlabRegularOblique') format('svg');
     font-weight: normal;
     font-style: normal;
 
 }
 @font-face {
     font-family: 'NexaSlabRegularItalic';
-    src: url('../fonts/nexaslabregularitalic.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/nexaslabregularitalic.otf')  format('opentype'),
-         url('../fonts/nexaslabregularitalic.woff') format('woff'),
-         url('../fonts/nexaslabregularitalic.ttf')  format('truetype'),
-         url('../fonts/nexaslabregularitalic.svg#nexaslabregularitalic') format('svg');
+    src: url('NexaSlabRegularItalic.eot?#iefix') format('embedded-opentype'),
+         url('NexaSlabRegularItalic.otf')  format('opentype'),
+         url('NexaSlabRegularItalic.woff') format('woff'),
+         url('NexaSlabRegularItalic.ttf')  format('truetype'),
+         url('NexaSlabRegularItalic.svg#NexaSlabRegularItalic') format('svg');
     font-weight: normal;
     font-style: normal;
 }
